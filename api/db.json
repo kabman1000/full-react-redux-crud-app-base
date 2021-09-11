@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigationss",
+      "description": "Only jesus can save",
+      "id": 6
+    },
+    {
+      "title": "Component Reuse",
+      "description": "Refactor of a component",
+      "userId": "105184564030760233637",
+      "id": 8
+    }
+  ]
+}
